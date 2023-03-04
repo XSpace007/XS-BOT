@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -17,12 +17,12 @@ global.APIs = {
 // beli apikey premium pc wa: 0887435047326
 // beli apikey premium pc wa: 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'L6mLIgNvBK6NnRP', // 👉 login https://api.zeeoneofc.my.id to get apikey, tutor https://youtu.be/THsiM3I7sLI
+   'https://api.zeeoneofc.my.id': 'WFSIzCE83ZCGLSZ', // 👉 login https://api.zeeoneofc.my.id to get apikey, tutor https://youtu.be/THsiM3I7sLI
 }
 global.sewabotnya = `
 Ariefvoss Bot
 Jika Ingin Sewa Bisa Menghubungi Owner:
-https://wa.me/62895600555028
+https://wa.me/6289665898449
 Trial: 1 Day
 1 Minggu : 8k
 2 Minggu : 15k
@@ -47,18 +47,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Ariefvoss Bot" //namabot kalian
-global.ownername = "Ariefvoss" //nama kalian
-global.myweb = "https://instagram.com/arieff_westa" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@Rief_Kanaeru" //bebas asal jan hapus
-global.myweb2 = "https://blogspot.com/arief-zx" //bebas
-global.email = "iamhack249@gmail.com" //bebas
+global.botname = "XSpace Bot" //namabot kalian
+global.ownername = "Ryu." //nama kalian
+global.myweb = "https://instagram.com/enginerexe12" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/RyuXPloit" //bebas asal jan hapus
+global.myweb2 = "https://blogspot.com/RyuXPloit" //bebas
+global.email = "aeuryupetinggiputra9@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
-global.premium = ['62895600555028'] //premium user
-global.owner = ["62895600555028", "6289654379726"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62895600555028" // nomor wa kalian
-global.ownernomerr = "+62895600555028" //nmr wa kalian
+global.premium = ['6289665898449'] //premium user
+global.owner = ["6289665898449", "6285174160337"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289665898449" // nomor wa kalian
+global.ownernomerr = "+6289665898449" //nmr wa kalian
 global.thumbnail = "../lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "../donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
